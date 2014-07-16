@@ -5,9 +5,6 @@ published: true
 ---
 
 
-# BENEVOL 2014
-
-
 The BENEVOL software evolution research seminar aims to gather junior
 and senior researchers from Belgium, the Netherlands, and neighboring
 countries to meet and to discuss new ideas, important problems and
@@ -22,9 +19,12 @@ developed by PhD students. Senior researchers will provide the
 necessary feedback and lively discussions.
 
 
+
+## Keynotes
+
 As every year, we will have invited talks by key researchers in the field:
 
-- Rainer Koschke (University of Bremen): “Software Clone  Management: Past, Present and the Future”
+- Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
 
 - Leon Moonen (Simula Research Laboratory): to be determined.
 
@@ -33,7 +33,8 @@ Attendance to BENEVOL 2014 is free (including lunch, coffee breaks, and
 dinner on the first day), but registration is required. The event will be hosted at 
 [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in Amsterdam.
 
-Important dates:
+
+## Important dates & submission
 
 - Submission deadline: October 20th
 
@@ -48,6 +49,7 @@ Extended abstracts (max. 2 A4 pages) should be submitted using EasyChair:
 Proceedings will be published as a CWI technical report.
 Participants can still submit their work to other scientific venues.
 
+## Sponsors
 
 Our kind sponsors enable free registration for the event:
 
@@ -58,6 +60,8 @@ Our kind sponsors enable free registration for the event:
 
 Please refer to our website [http://benevol.cwi.nl](http://benevol.cwi.nl) for more information on 
 submissions and the event.
+
+## Organization
 
 Feel free to contact the organizers [Magiel Bruntink](mailto:m.bruntink@uva.nl) and [Tijs van  der Storm](mailto:storm@cwi.nl).
 

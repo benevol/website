@@ -4,7 +4,7 @@ title: Welcome
 published: true
 ---
 
-## The 13th BElgian-NEtherlands software eVOLution seminar
+## Call for participation
 
 The BENEVOL software evolution research seminar aims to gather junior
 and senior researchers from Belgium, the Netherlands, and neighboring

@@ -27,14 +27,14 @@ As every year, we will have invited talks by key researchers in the field:
 
 - Leon Moonen (Simula Research Laboratory): to be determined.
 
-## Participation & venue
+### Participation & venue
 
 Attendance to BENEVOL 2014 is free (including lunch, coffee breaks, and 
 dinner on the first day), but registration is required. The event will be hosted at 
 [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) at the Science Park in Amsterdam.
 
 
-## Registration
+### Registration
 
 Detailed instructions will be announced soon.
 

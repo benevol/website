@@ -1,0 +1,16 @@
+permalink: /:title
+
+
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+
+name: BENEVOL 2014 
+title: BENEVOL 2014
+
+production_url: http://benevol.cwi.nl/
+
+exclude: ["README.md"]
+
+url: http://benevol.cwi.nl/ 

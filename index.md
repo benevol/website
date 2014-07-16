@@ -19,9 +19,7 @@ particularly welcomes presentations of ongoing research or tools
 developed by PhD students. Senior researchers will provide the
 necessary feedback and lively discussions.
 
-
-
-### Keynotes
+### Invited speakers
 
 As every year, we will have invited talks by key researchers in the field:
 
@@ -29,13 +27,19 @@ As every year, we will have invited talks by key researchers in the field:
 
 - Leon Moonen (Simula Research Laboratory): to be determined.
 
+## Participation & venue
 
 Attendance to BENEVOL 2014 is free (including lunch, coffee breaks, and 
 dinner on the first day), but registration is required. The event will be hosted at 
-[Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in Amsterdam.
+[Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) at the Science Park in Amsterdam.
 
 
-### Important dates & submission
+## Registration
+
+Detailed instructions will be announced soon.
+
+
+### Important dates & submissions
 
 - Submission deadline: October 20th
 
@@ -47,8 +51,7 @@ Extended abstracts (max. 2 A4 pages) should be submitted using EasyChair:
 
 > [https://easychair.org/conferences/?conf=benevol2014](https://easychair.org/conferences/?conf=benevol2014). 
 
-Proceedings will be published as a CWI technical report.
-Participants can still submit their work to other scientific venues.
+Submissions will be compiled as a CWI technical report. Participants can still submit their work to other scientific venues.
 
 ### Sponsors
 
@@ -59,7 +62,7 @@ Our kind sponsors enable free registration for the event:
 - Corporate sponsor: [Software Improvement Group](http://www.sig.eu)
    
 
-### Organization
+### Contact
 
 Feel free to contact the organizers [Magiel Bruntink](mailto:m.bruntink@uva.nl) and [Tijs van  der Storm](mailto:storm@cwi.nl).
 

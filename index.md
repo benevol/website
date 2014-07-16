@@ -59,9 +59,6 @@ Our kind sponsors enable free registration for the event:
 - Corporate sponsor: [Software Improvement Group](http://www.sig.eu)
    
 
-Please refer to our website [http://benevol.cwi.nl](http://benevol.cwi.nl) for more information on 
-submissions and the event.
-
 ### Organization
 
 Feel free to contact the organizers [Magiel Bruntink](mailto:m.bruntink@uva.nl) and [Tijs van  der Storm](mailto:storm@cwi.nl).

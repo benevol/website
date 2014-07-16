@@ -323,6 +323,7 @@ Full-Width Styles
 }
 
 #sponsors img {
+  border: 0;
   box-shadow: 0 0 0px #ebebeb;
   -webkit-box-shadow: 0 0 0px #ebebeb;
   -moz-box-shadow: 0 0 0px #ebebeb;

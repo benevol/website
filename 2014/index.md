@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2014
 title: Welcome
 published: true
 ---

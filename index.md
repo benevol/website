@@ -4,66 +4,21 @@ title: Welcome
 published: true
 ---
 
-## Call for participation
+### Welcome
 
-The BENEVOL software evolution research seminar aims to gather junior
-and senior researchers from Belgium, the Netherlands, and neighboring
-countries to meet and to discuss new ideas, important problems and
-obtained research results in the field of software evolution.
+Welcome to the website of the BElgian-NEtherlands software eVOLution seminar.
 
-Prospective speakers (junior or senior researchers or practitioners
-active in the field) are invited to submit an extended abstract (max.
-2 A4 pages) of a talk. Based on these extended abstracts, the
-organization will construct an exciting program. The seminar
-particularly welcomes presentations of ongoing research or tools
-developed by PhD students. Senior researchers will provide the
-necessary feedback and lively discussions.
+Editions:
 
-### Invited speakers
-
-As every year, we will have invited talks by key researchers in the field:
-
-- Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
-
-- Leon Moonen (Simula Research Laboratory): to be determined.
-
-### Participation & venue
-
-Attendance to BENEVOL 2014 is free (including lunch, coffee breaks, and 
-dinner on the first day), but registration is required. The event will be hosted at 
-[Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) at the Science Park in Amsterdam.
-
-
-### Registration
-
-Detailed instructions will be announced soon.
-
-
-### Important dates & submissions
-
-- Submission deadline: October 20th
-
-- Registration deadline: November 10th
-
-- Event: November 27th and 28th
-
-Extended abstracts (max. 2 A4 pages) should be submitted using EasyChair: 
-
-> [https://easychair.org/conferences/?conf=benevol2014](https://easychair.org/conferences/?conf=benevol2014). 
-
-Submissions will be compiled as a CWI technical report. Participants can still submit their work to other scientific venues.
-
-### Sponsors
-
-Our kind sponsors enable free registration for the event:
-
-- Main sponsor: [Centrum Wiskunde & Informatica](http://www.cwi.nl/)
-
-- Corporate sponsor: [Software Improvement Group](http://www.sig.eu)
-   
-
-### Contact
-
-Feel free to contact the organizers [Magiel Bruntink](mailto:m.bruntink@uva.nl) and [Tijs van  der Storm](mailto:storm@cwi.nl).
-
-
+- [2014: Amsterdam, Netherlands](/2014/)
+- [2013: Mons, Belgium](http://informatique.umons.ac.be/genlog/benevol2013/)
+- [2012: Delft, Netherlands](http://swerl.tudelft.nl/bin/view/Main/BENEVOL2012)
+- [2011: Brussels, Belgium](http://soft.vub.ac.be/benevol2011/)
+- 2010: Lille, France
+- 2009: Louvain-la-Neuve, Belgium
+- [2008: Eindhoven, Netherlands](http://www-set.win.tue.nl/benevol2008/FrontPage)
+- [2007: Namur, Belgium](http://staff.info.unamur.be/acl/benevol/index.html)
+- [2006: Delft, Netherlands](http://swerl.tudelft.nl/bin/view/Main/BENEVOL2006) 
+- [2005: Eindhoven, Netherlands](http://www.program-transformation.org/Transform/BenevolTwoThousandFive)
+- [2004: Antwerpen, Belgium](http://www.program-transformation.org/Transform/BenevolTwoThousandFour)
+- [2003: Amsterdam, Netherlands](http://www.program-transformation.org/Transform/BenevolTwoThousandThree)

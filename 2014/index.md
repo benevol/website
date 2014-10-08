@@ -25,7 +25,7 @@ As every year, we will have invited talks by key researchers in the field:
 
 - Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
 
-- Leon Moonen (Simula Research Laboratory): to be determined.
+- Leon Moonen (Simula Research Laboratory): "Supporting Certification and Evolution of Cyber-Physical Product Families"
 
 ### Participation & venue
 

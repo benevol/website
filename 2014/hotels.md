@@ -4,7 +4,7 @@ title: Accomodations
 published: true
 ---
 
-## Accomodation near CWI
+### Accomodation near CWI
 
 [The Manor Hotel****](http://www.hampshire-hotels.com/hotel/101/The_Manor_Hotel_Amsterdam_-_Hampshire_Eden.html)  
 Linnaeusstraat 89  
@@ -27,7 +27,7 @@ Amsterdam
 Eerste Ringdijkstraat 4  
 Amsterdam - near to Amstelstation  
 
-## Accomodation near the city center
+### Accomodation near the city center
 
 [NH Doelen****](http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-doelen.html)  
 Nieuwe Doelenstraat 26  

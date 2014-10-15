@@ -4,35 +4,31 @@ title: Accomodations
 published: true
 ---
 
-The Manor Hotel****
-Linnaeusstraat 89
-Amsterdam
-http://www.hampshire-hotels.com/hotel/101/The_Manor_Hotel_Amsterdam_-_Hampshire_Eden.html
+## Accomodation near CWI
 
-NH Tropen hotel***
-Linnaeusstraat 2c
-Amsterdam
-Tel: +31-20-692 5111
-http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-tropen.html?nhagentid=10166&nhsubagentid=101660000000&oodc=3984&source=adwords
+[The Manor Hotel****](http://www.hampshire-hotels.com/hotel/101/The_Manor_Hotel_Amsterdam_-_Hampshire_Eden.html)  
+Linnaeusstraat 89  
+Amsterdam  
 
-Eden Lancaster Hotel***
-Plantage Middenlaan 48
-Amsterdam
-www.edenlancasterhotel.com/nl/overview.aspx
+[NH Tropen hotel***](http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-tropen.html?nhagentid=10166&nhsubagentid=101660000000&oodc=3984&source=adwords)  
+Linnaeusstraat 2c  
+Amsterdam  
+Tel: +31-20-692 5111  
 
-Rembrandt Hotel***
-Plantage Middenlaan 17
-Amsterdam
-www.hotelrembrandt.nl
+[Eden Lancaster Hotel***](www.edenlancasterhotel.com/nl/overview.aspx)  
+Plantage Middenlaan 48  
+Amsterdam  
 
-Casa 400***
-Eerste Ringdijkstraat 4
-Amsterdam - near to Amstelstation
-http://www.hotelcasa400.nl/
+[Rembrandt Hotel***](www.hotelrembrandt.nl)  
+Plantage Middenlaan 17  
+Amsterdam  
 
-Meer in het centrum van Amsterdam:
+[Casa 400***](http://www.hotelcasa400.nl/)  
+Eerste Ringdijkstraat 4  
+Amsterdam - near to Amstelstation  
 
-NH Doelen****
-Nieuwe Doelenstraat 26
-Amsterdam
-http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-doelen.html
+## Accomodation near the city center
+
+[NH Doelen****](http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-doelen.html)  
+Nieuwe Doelenstraat 26  
+Amsterdam  

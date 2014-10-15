@@ -32,6 +32,8 @@ As every year, we will have invited talks by key researchers in the field:
 Attendance to BENEVOL 2014 is free (including lunch, coffee breaks, and 
 dinner on the first day), but registration is required. The event will be hosted at 
 [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) at the Science Park in Amsterdam.
+- Directions for coming to CWI by car can be found [here](https://www.cwi.nl/how-reach-cwi-car).
+- Directions for coming to CWI by public transport can be foud [here](https://www.cwi.nl/how-reach-cwi-public-transport).
 
 
 ### Registration

@@ -37,6 +37,8 @@ dinner on the first day), but registration is required. The event will be hosted
 
 - Directions for coming to CWI by public transport can be foud [here](https://www.cwi.nl/how-reach-cwi-public-transport).
 
+- Suggestions for accomodation can be found [here](hotels.html).
+
 
 ### Registration
 

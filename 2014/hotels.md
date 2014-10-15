@@ -15,15 +15,15 @@ Linnaeusstraat 2c
 Amsterdam  
 Tel: +31-20-692 5111  
 
-[Eden Lancaster Hotel***](http://www.edenlancasterhotel.com/en/)  
+[Eden Lancaster Hotel***](http://www.edenlancasterhotel.com/en)  
 Plantage Middenlaan 48  
 Amsterdam  
 
-[Rembrandt Hotel***](http://www.hotelrembrandt.nl/)  
+[Rembrandt Hotel***](http://www.hotelrembrandt.nl)  
 Plantage Middenlaan 17  
 Amsterdam  
 
-[Casa 400***](http://www.hotelcasa400.nl/)  
+[Casa 400***](http://www.hotelcasa400.nl)  
 Eerste Ringdijkstraat 4  
 Amsterdam - near to Amstelstation  
 

@@ -1,3 +1,9 @@
+---
+layout: default2014
+title: Accomodations
+published: true
+---
+
 The Manor Hotel****
 Linnaeusstraat 89
 Amsterdam

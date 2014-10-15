@@ -10,16 +10,16 @@ published: true
 Linnaeusstraat 89  
 Amsterdam  
 
-[NH Tropen hotel***](http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-tropen.html?nhagentid=10166&nhsubagentid=101660000000&oodc=3984&source=adwords)  
+[NH Tropen hotel***](http://www.nh-hotels.com/nh/en/hotels/the-netherlands/amsterdam/nh-tropen.html)  
 Linnaeusstraat 2c  
 Amsterdam  
 Tel: +31-20-692 5111  
 
-[Eden Lancaster Hotel***](www.edenlancasterhotel.com/nl/overview.aspx)  
+[Eden Lancaster Hotel***](http://www.edenlancasterhotel.com/en/)  
 Plantage Middenlaan 48  
 Amsterdam  
 
-[Rembrandt Hotel***](www.hotelrembrandt.nl)  
+[Rembrandt Hotel***](http://www.hotelrembrandt.nl/)  
 Plantage Middenlaan 17  
 Amsterdam  
 

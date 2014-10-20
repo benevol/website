@@ -47,9 +47,9 @@ Detailed instructions will be announced soon.
 
 ### Important dates & submissions
 
-- Submission deadline: October 20th
+- Submission deadline: October 20th (AOE)
 
-- Registration deadline: November 10th
+- Registration deadline: November 10th (AOE)
 
 - Event: November 27th and 28th
 

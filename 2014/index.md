@@ -42,7 +42,7 @@ dinner on the first day), but registration is required. The event will be hosted
 
 ### Registration
 
-Detailed instructions will be announced soon.
+Please register using [this form](http://goo.gl/forms/SLi0PgPqo2).
 
 
 ### Important dates & submissions

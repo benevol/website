@@ -1,5 +1,5 @@
 ---
-layout: default2014
+layout: wide2014
 title: Program
 published: true
 ---

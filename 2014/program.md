@@ -1,10 +1,10 @@
 ---
-layout: default2014
+layout: wide2014
 title: Program
 published: true
 ---
   
-## Program for November 27th and 28th
+### Program for November 27th and 28th
 
 | Time        | Presentation                        | Title                                                                                                  |
 |-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------|

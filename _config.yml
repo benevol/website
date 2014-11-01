@@ -6,6 +6,9 @@ safe: true
 lsi: false
 pygments: true
 
+redcarpet:
+  extensions: ["tables"]
+
 name: BENEVOL 2014 
 title: BENEVOL 2014
 

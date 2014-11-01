@@ -8,9 +8,9 @@ published: true
 
 | Time        | Presentation                        | Title                                                                                                  |
 |-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Day 1**       |                                     |                                                                                                        |
+| **Thu Nov 27**  |                                     |                                                                                                        |
 | 8:30-9:30   | Coffee and welcome                  |                                                                                                        |
-| 9:30-10:30  | Keynote Leon Moonen                 | Supporting Certification and Evolution of Cyber-Physical Product Families                              |
+| 9:30-10:30  | **Keynote** Leon Moonen             | Supporting Certification and Evolution of Cyber-Physical Product Families                              |
 | Break       |                                     |                                                                                                        |
 | 11:00-11:20 | Kim Mens                            | Managing the Evolution of Information Systems with Intensional Views                                   |
 | 11:20-11:40 | Pablo Inostroza                     | Evolving Languages with Object Algebras                                                                |
@@ -29,9 +29,9 @@ published: true
 | 16:20-16:40 | Thomas Schmorleiz                   | Similarity Management in Software Product Line Engineering                                             |
 | 16:40-17:00 | Nicolas Dintzner                    | Analyzing the Linux Kernel Feature Model Changes Using FMDiff                                          |
 |             |                                     |                                                                                                        |
-| **Day 2**       |                                     |                                                                                                        |
+| **Fri Nov 28**  |                                     |                                                                                                        |
 | 8:30-9:30   | Coffee                              |                                                                                                        |
-| 9:30-10:30  | Keynote Rainer Koschke              | Software Clone Management: Past, Present and the Future                                                |
+| 9:30-10:30  | **Keynote** Rainer Koschke          | Software Clone Management: Past, Present and the Future                                                |
 | Break       |                                     |                                                                                                        |
 | 11:00-11:20 | Angela Lozano                       | On the use and purpose of Java annotations                                                             |
 | 11:20-11:40 | Quentin Stievenart                  | Adventures in Analyzing Full Javascript                                                                |

@@ -8,7 +8,7 @@ published: true
 
 | Time        | Presentation                        | Title                                                                                                  |
 |-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Day 1       |                                     |                                                                                                        |
+| **Day 1**       |                                     |                                                                                                        |
 | 8:30-9:30   | Coffee and welcome                  |                                                                                                        |
 | 9:30-10:30  | Keynote Leon Moonen                 | Supporting Certification and Evolution of Cyber-Physical Product Families                              |
 | Break       |                                     |                                                                                                        |
@@ -29,7 +29,7 @@ published: true
 | 16:20-16:40 | Thomas Schmorleiz                   | Similarity Management in Software Product Line Engineering                                             |
 | 16:40-17:00 | Nicolas Dintzner                    | Analyzing the Linux Kernel Feature Model Changes Using FMDiff                                          |
 |             |                                     |                                                                                                        |
-| Day 2       |                                     |                                                                                                        |
+| **Day 2**       |                                     |                                                                                                        |
 | 8:30-9:30   | Coffee                              |                                                                                                        |
 | 9:30-10:30  | Keynote Rainer Koschke              | Software Clone Management: Past, Present and the Future                                                |
 | Break       |                                     |                                                                                                        |

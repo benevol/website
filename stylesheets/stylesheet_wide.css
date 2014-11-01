@@ -1,16 +1,26 @@
 @import url(stylesheet.css);
 
-/*******************************************************************************
-Full-Width Styles
-*******************************************************************************/
-
-.outer {
-  width: 100%;
-}
-
 .inner {
   position: relative;
   max-width: 1024px;
   padding: 20px 10px;
   margin: 0 auto;
 }
+
+table {
+  border: 1px solid #373737;
+  margin-bottom: 1px;
+  text-align: left;
+ }
+
+th {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding: 1px;
+  background: #373737;
+  color: #fff;
+ }
+
+td {
+  padding: 1px;
+  border: 1px solid #373737;
+ }

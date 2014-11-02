@@ -19,13 +19,15 @@ particularly welcomes presentations of ongoing research or tools
 developed by PhD students. Senior researchers will provide the
 necessary feedback and lively discussions.
 
-### Invited speakers
+### Invited speakers & Program
 
-As every year, we will have invited talks by key researchers in the field:
+This year we will have the following exciting keynote talks:
 
 - Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
 
 - Leon Moonen (Simula Research Laboratory): "Supporting Certification and Evolution of Cyber-Physical Product Families"
+
+The full program consisting of 25 talks can be found [here](http://benevol.cwi.nl/2014/program.html).
 
 ### Participation & venue
 

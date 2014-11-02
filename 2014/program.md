@@ -23,7 +23,6 @@ published: true
 | 14:20-14:40 | Georgios Gousios                    | Mining GitHub for Fun and Profit: The GHTorrent project                                                |
 | 14:40-15:00 | Daan Janssens                       | Mining Refactoring Guidelines from Stack Overflow                                                      |
 | 15:00-15:20 | Angela Lozano                       | Explaining why methods change together                                                                 |
-
 | Break       |                                     |                                                                                                        |
 | 15:40-16:00 | Sandro Schulze                      | Evolution in a Clone-and-Own Setting -- The Marlin Case                                                |
 | 16:00-16:20 | Maëlick Claes                       | Towards An Empirical Analysis of Debian Package Conflicts                                              |
@@ -34,7 +33,7 @@ published: true
 | 8:30-9:30   | Coffee                              |                                                                                                        |
 | 9:30-10:30  | **Keynote** Rainer Koschke          | Software Clone Management: Past, Present and the Future                                                |
 | Break       |                                     |                                                                                                        |
-| 11:00-11:20 | Carlos Noguera                       | On the use and purpose of Java annotations                                                             |
+| 11:00-11:20 | Carlos Noguera                      | On the use and purpose of Java annotations                                                             |
 | 11:20-11:40 | Quentin Stievenart                  | Adventures in Analyzing Full Javascript                                                                |
 | 11:40-12:00 | Javier Pérez                        | Inferring Bad Smell Removal Recipes from Repository Mining: an initial exploration                     |
 | Lunch       |                                     |                                                                                                        |

@@ -23,9 +23,9 @@ necessary feedback and lively discussions.
 
 This year we will have the following exciting keynote talks:
 
-- Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
-
 - Leon Moonen (Simula Research Laboratory): "Supporting Certification and Evolution of Cyber-Physical Product Families"
+ 
+- Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
 
 The full program consisting of 25 talks can be found [here](http://benevol.cwi.nl/2014/program.html).
 
@@ -49,7 +49,7 @@ Please register using [this form](http://goo.gl/forms/SLi0PgPqo2).
 
 ### Important dates & submissions
 
-- Submission deadline: ~~October 20th (AOE)~~ extended to October 26th (AOE)
+- Submission deadline: extended to October 26th (AOE)
 
 - Registration deadline: November 10th (AOE)
 

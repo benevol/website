@@ -19,7 +19,7 @@ particularly welcomes presentations of ongoing research or tools
 developed by PhD students. Senior researchers will provide the
 necessary feedback and lively discussions.
 
-### Invited speakers & Program
+### Invited speakers & program
 
 This year we will have the following exciting keynote talks:
 

@@ -9,6 +9,9 @@ pygments: true
 redcarpet:
   extensions: ["tables"]
 
+kramdown:
+  input: GFM
+
 name: BENEVOL 2014 
 title: BENEVOL 2014
 

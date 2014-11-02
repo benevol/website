@@ -5,7 +5,7 @@ published: true
 ---
   
 ### Program for November 27th and 28th
-Talks are 15 minutes followed by ~5 minutes discussion.
+Talks are 15 minutes followed by +/- 5 minutes discussion.
 
 | Time        | Presentation                        | Title                                                                                                  |
 |-------------|-------------------------------------|--------------------------------------------------------------------------------------------------------|

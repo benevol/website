@@ -21,7 +21,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | 13:20-13:40 | Evelyn Van Kelle                    | An Empirical Study into Social Success Factors for Agile Software Development                          |
 | 13:40-14:00 | Hennie Huijgens                     | Pricing via Functional Size – A Case Study of 77 Outsourced Projects                                   |
 | Break       |                                     |                                                                                                        |
-| 14:20-14:40 | Georgios Gousios                    | Mining GitHub for Fun and Profit: The GHTorrent project                                                |
+| 14:20-14:40 | Alexander Serebrenik                | Continuous integration in GITHUB: Experiences with TRAVIS-CI                                           |
 | 14:40-15:00 | Daan Janssens                       | Mining Refactoring Guidelines from Stack Overflow                                                      |
 | 15:00-15:20 | Angela Lozano                       | Explaining why methods change together                                                                 |
 | Break       |                                     |                                                                                                        |
@@ -40,7 +40,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | Lunch       |                                     |                                                                                                        |
 | 13:00-13:20 | Davy Landman                        | The relationship between CC and SLOC: a preliminary analysis on its evolution                          |
 | 13:20-13:40 | Narjisse Tabout                     | An Exploratory Analysis of Identical Function Clones in CRAN                                           |
-| 13:40-14:00 | Alexander Serebrenik                | Continuous integration in GITHUB: Experiences with TRAVIS-CI                                           |
+| 13:40-14:00 | Georgios Gousios                    | Mining GitHub for Fun and Profit: The GHTorrent project                                                |
 | Break       |                                     |                                                                                                        |
 | 14:20-14:40 | Ella Roubtsova and Serguei Roubtsov | Decision Modules in Models and Implementations                                                         |
 | 14:40-15:00 | Josh Mengerink                      | (Co-)Evolution in MDSE                                                                                 |

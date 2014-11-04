@@ -22,7 +22,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | 13:40-14:00 | Hennie Huijgens                     | Pricing via Functional Size – A Case Study of 77 Outsourced Projects                                   |
 | Break       |                                     |                                                                                                        |
 | 14:20-14:40 | Alexander Serebrenik                | Continuous integration in GITHUB: Experiences with TRAVIS-CI                                           |
-| 14:40-15:00 | Daan Janssens                       | Mining Refactoring Guidelines from Stack Overflow                                                      |
+| 14:40-15:00 | Javier Pérez                        | Inferring Bad Smell Removal Recipes from Repository Mining: an initial exploration                     |
 | 15:00-15:20 | Angela Lozano                       | Explaining why methods change together                                                                 |
 | Break       |                                     |                                                                                                        |
 | 15:40-16:00 | Sandro Schulze                      | Evolution in a Clone-and-Own Setting -- The Marlin Case                                                |
@@ -36,7 +36,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | Break       |                                     |                                                                                                        |
 | 11:00-11:20 | Carlos Noguera                      | On the use and purpose of Java annotations                                                             |
 | 11:20-11:40 | Quentin Stievenart                  | Adventures in Analyzing Full Javascript                                                                |
-| 11:40-12:00 | Javier Pérez                        | Inferring Bad Smell Removal Recipes from Repository Mining: an initial exploration                     |
+| 11:40-12:00 | Daan Janssens                       | Mining Refactoring Guidelines from Stack Overflow                                                      |
 | Lunch       |                                     |                                                                                                        |
 | 13:00-13:20 | Davy Landman                        | The relationship between CC and SLOC: a preliminary analysis on its evolution                          |
 | 13:20-13:40 | Narjisse Tabout                     | An Exploratory Analysis of Identical Function Clones in CRAN                                           |

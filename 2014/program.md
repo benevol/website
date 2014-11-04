@@ -13,7 +13,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | 8:30-9:30   | Coffee and welcome                  |                                                                                                        |
 | 9:30-10:30  | **Keynote** Leon Moonen             | Supporting Certification and Evolution of Cyber-Physical Product Families                              |
 | Break       |                                     |                                                                                                        |
-| 11:00-11:20 | Kim Mens                            | Managing the Evolution of Information Systems with Intensional Views                                   |
+| 11:00-11:20 | Josh Mengerink                      | (Co-)Evolution in MDSE                                                                                 |
 | 11:20-11:40 | Pablo Inostroza                     | Evolving Languages with Object Algebras                                                                |
 | 11:40-12:00 | Nesrine Noughi                      | Conceptual Interpretation of SQL Execution Traces for Program Comprehension                            |
 | Lunch       |                                     |                                                                                                        |
@@ -43,7 +43,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | 13:40-14:00 | Georgios Gousios                    | Mining GitHub for Fun and Profit: The GHTorrent project                                                |
 | Break       |                                     |                                                                                                        |
 | 14:20-14:40 | Ella Roubtsova and Serguei Roubtsov | Decision Modules in Models and Implementations                                                         |
-| 14:40-15:00 | Josh Mengerink                      | (Co-)Evolution in MDSE                                                                                 |
+| 14:40-15:00 | Kim Mens                            | Managing the Evolution of Information Systems with Intensional Views                                   |
 | 15:00-15:20 | Riemer van Rozen                    | Model Differencing for Textual DSLs                                                                    |
 | Break       |                                     |                                                                                                        |
 | 15:40-16:00 | Csaba Nagy                          | A Static Concept Location Technique for Data-Intensive Systems: ,,Where Was This SQL Query Executed?'' |

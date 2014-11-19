@@ -27,9 +27,9 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | Break       |                                     |                                                                                                        |
 | 15:40-16:00 | Sandro Schulze                      | Evolution in a Clone-and-Own Setting -- The Marlin Case                                                |
 | 16:00-16:20 | Maëlick Claes                       | Towards An Empirical Analysis of Debian Package Conflicts                                              |
-| 16:20-16:40 | Thomas Schmorleiz                   | Similarity Management in Software Product Line Engineering                                             |
-| 16:40-17:00 | Nicolas Dintzner                    | Analyzing the Linux Kernel Feature Model Changes Using FMDiff                                          |
+| 16:20-16:40 | Nicolas Dintzner                    | Analyzing the Linux Kernel Feature Model Changes Using FMDiff                                          |
 |             |                                     |                                                                                                        |
+| 19:00-      | [Dinner at Brasserie Harkema](http://www.brasserieharkema.nl/) | [Nes 67, 1012 KD Amsterdam](https://www.google.nl/maps/place/Nes+67,+1012+KD+Amsterdam/@52.3702271,4.8935607,17z/data=!3m1!4b1!4m2!3m1!1s0x47c609c092d9ce9d:0x7ec3125128e2ab48)                                                                                                       | 
 | **Fri Nov 28**  |                                     |                                                                                                        |
 | 8:30-9:30   | Coffee                              |                                                                                                        |
 | 9:30-10:30  | **Keynote** Rainer Koschke          | Software Clone Management: Past, Present and the Future                                                |

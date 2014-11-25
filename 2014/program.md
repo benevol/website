@@ -15,7 +15,7 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | Break       |                                     |                                                                                                        |
 | 11:00-11:20 | Josh Mengerink                      | (Co-)Evolution in MDSE                                                                                 |
 | 11:20-11:40 | Pablo Inostroza                     | Evolving Languages with Object Algebras                                                                |
-| 11:40-12:00 | Nesrine Noughi                      | Conceptual Interpretation of SQL Execution Traces for Program Comprehension                            |
+| 11:40-12:00 | Coen De Roover                      | A recommendation system for generalizing and refining source code templates                            |
 | Lunch       |                                     |                                                                                                        |
 | 13:00-13:20 | Gregorio Robles                     | A Longitudinal Study of an Industrial FLOSS project using Social Network Analysis                      |
 | 13:20-13:40 | Evelyn Van Kelle                    | An Empirical Study into Social Success Factors for Agile Software Development                          |
@@ -49,5 +49,4 @@ Talks are 15 minutes followed by +/- 5 minutes discussion.
 | Break       |                                     |                                                                                                        |
 | 15:40-16:00 | Csaba Nagy                          | A Static Concept Location Technique for Data-Intensive Systems: ,,Where Was This SQL Query Executed?'' |
 | 16:00-16:20 | Rick Hoving                         | A Template Method for Improvement of System Response Time                                              |
-| 16:20-16:40 | Coen De Roover                      | A recommendation system for generalizing and refining source code templates                            |
-| 16:40-17:00 | Closing of BENEVOL 2014             |                                                                                                        |
+| 16:20-16:30 | Closing of BENEVOL 2014             |                                                                                                        |

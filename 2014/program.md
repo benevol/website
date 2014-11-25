@@ -7,7 +7,7 @@ published: true
 ### Program for November 27th and 28th, room Euler.
 Talks are 15 minutes followed by +/- 5 minutes discussion.
 
-Download a zip-file with all submitted preprints [here](http://benevol.cwi.nl/2014/benevol14-submissions.pdf).
+Download a zip-file with all submitted preprints [here](http://benevol.cwi.nl/2014/benevol14-submissions.zip).
 
 
 | Time        | Presentation                        | Title                                                                                                  |

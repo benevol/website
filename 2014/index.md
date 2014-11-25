@@ -28,6 +28,7 @@ This year we will have the following exciting keynote talks:
 - Rainer Koschke (University of Bremen): “Software Clone Management: Past, Present and the Future”
 
 The full program consisting of 25 talks can be found [here](http://benevol.cwi.nl/2014/program.html).
+A zip-file containing PDFs of accepted papers can be downloaded [here](http://benevol.cwi.nl/2014/benevol14-submissions.zip).
 
 ### Participation & venue
 
